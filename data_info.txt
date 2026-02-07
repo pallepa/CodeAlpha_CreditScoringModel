@@ -1,0 +1,23 @@
+
+Dataset Information for CodeAlpha - Credit Scoring Model
+--------------------------------------------------------
+
+📂 Dataset Source:
+URL: https://raw.githubusercontent.com/Statology/Python-Guides/main/default.csv
+
+📊 Description:
+This dataset contains information about customers, their financial history, and whether they defaulted on their credit.
+
+🔑 Features:
+- student: Indicates whether the customer is a student (Yes/No)
+- balance: The balance on the customer's credit card account
+- income: Annual income of the customer in USD
+
+🎯 Target:
+- default: Whether the customer defaulted on the loan (Yes/No), later encoded as 1 (Yes) and 0 (No)
+
+📈 Size:
+- Approx. 10,000 records
+
+✅ Purpose:
+To train a machine learning model to classify whether a customer is likely to default, based on their financial history.
