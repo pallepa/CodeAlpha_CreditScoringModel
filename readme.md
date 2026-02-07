@@ -97,8 +97,9 @@ Thanks to **CodeAlpha** for this internship opportunity and the hands-on project
 
 ## 🔗 Author
 
-**Amar Kumar**\
-GitHub: [Modelamar](https://github.com/Modelamar)
+- **Name:** Pallepa  
+- **GitHub:** [pallepa](https://github.com/pallepa)
+
 
 ---
 
